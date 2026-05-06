@@ -1,6 +1,6 @@
-# Hi! Everyone 👋
-# Venya Kejriwal  
-### UI/UX | Web Developer  
+# Hellooo!
+# 🎀 Venya's Digital Playground 🎀
+### UI/UX Visionary | Full-Stack Explorer | Professional Overthinker 
 
 ---
 
