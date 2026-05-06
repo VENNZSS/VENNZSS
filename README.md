@@ -1,8 +1,11 @@
-## <div align="center"> Hellooo! Welcome to
-# <div align="center"> 🎀 Venya's Digital Playground 🎀
-### <div align="center"> UI/UX Visionary | Full-Stack Explorer | Professional Overthinker 
-#### <div align="center"> "I’m working late ‘cause I’m a programmer." ☕️
+<div align="center">
+## Hellooo! Welcome to
+# 🎀 Venya's Digital Playground 🎀
+### UI/UX Visionary | Full-Stack Explorer | Professional Overthinker
 
+*"I’m working late ‘cause I’m a programmer."* ☕️
+
+</div>
 ---
 
 I’m a student at KIIT, currently starting my journey in coding and exploring the world of technology step by step.  
