@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hellooo!
 # Venya Kejriwal  
-### Web & UI/UX Developer · Earth  
+### Web & UI/UX Developer  
 
 ---
 
