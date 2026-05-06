@@ -1,6 +1,6 @@
 # Hellooo!
 # Venya Kejriwal  
-### Web & UI/UX Developer  
+### UI/UX | Web Developer  
 
 ---
 
