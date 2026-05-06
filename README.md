@@ -11,8 +11,8 @@
 ---
 
 ### ✨ The Lore
-*   **Who am I?** I'm Venya Kejriwal, a B.Tech student currently in my 2nd year at KIIT University.
-*   **The Vibe:** Turning complex logic into "aesthetic" reality—think dramatic Sabrina Carpenter playlists meets clean code.
+*   **Who am I?** I'm Venya Kejriwal, a B.Tech student currently at KIIT University.
+*   **The Vibe:** Turning complex logic into "aesthetic" reality think as dramatic Sabrina Carpenter playlists meets clean code.
 *   **Current Mood:** Progress over perfection, always.
 
 I’m a student at KIIT, currently starting my journey in coding and exploring the world of technology step by step.  
@@ -24,7 +24,35 @@ I’m passionate about learning new things and creating small sparks of magic th
 🚀 Focused on consistency and progress over perfection  
 
 ---
+<div align="center">
 
+### 🚧 The Quest Log
+**[Now]** Conquering Java logic and building aesthetic web projects 💻
+**[Next]** Unlocking Machine Learning and high-level Backend vibes 🤖
+**[Open]** Iconic UI/UX collabs and internship adventures 🚀
+
+<br>
+
+### 🔥 The "It Girl" Stack
+
+**The Brains**
+`Java` • `JavaScript` • `C` • `Python` • `SQL` 🧠
+
+**The Beauty**
+`Figma` • `Tailwind` • `Framer` • `HTML5` • `CSS3` 🎨
+
+**The Tinkerer**
+`Arduino` • `Git/GitHub` • `PyTorch` • `Canva` 🛠️
+
+<br>
+
+### 🌐 Let’s Catch a Vibe
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VENNZSS) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venya-kejriwal-5646a0333/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venyakejriwal333@gmail.com)
+
+</div>
 ### 🚧 Now / Next / Open
 
 - **Now:** Building small web projects and improving my development skills  
