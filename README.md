@@ -1,4 +1,4 @@
-# Hellooo!
+# Hi! Everyone 👋
 # Venya Kejriwal  
 ### UI/UX | Web Developer  
 
