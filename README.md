@@ -24,8 +24,6 @@ I’m passionate about learning new things and creating small sparks of magic th
 🚀 Focused on consistency and progress over perfection  
 
 ---
-<div align="center">
-
 ### 🚧 The Quest Log
 **[Now]** Conquering Java logic and building aesthetic web projects 💻
 **[Next]** Unlocking Machine Learning and high-level Backend vibes 🤖
@@ -45,7 +43,7 @@ I’m passionate about learning new things and creating small sparks of magic th
 `Arduino` • `Git/GitHub` • `PyTorch` • `Canva` 🛠️
 
 <br>
-
+<div align="center">
 ### 🌐 Let’s Catch a Vibe
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VENNZSS) 
