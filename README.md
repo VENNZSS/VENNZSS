@@ -1,6 +1,7 @@
 ## Hellooo! Welcome to
 # <div align="center"> 🎀 Venya's Digital Playground 🎀
 ### UI/UX Visionary | Full-Stack Explorer | Professional Overthinker 
+#### "I’m working late ‘cause I’m a programmer." ☕️
 
 ---
 
