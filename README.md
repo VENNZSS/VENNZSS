@@ -1,5 +1,5 @@
-# Hellooo!
-# 🎀 Venya's Digital Playground 🎀
+#<div align="center"> Hellooo!
+🎀 Venya's Digital Playground 🎀
 ### UI/UX Visionary | Full-Stack Explorer | Professional Overthinker 
 
 ---
