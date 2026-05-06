@@ -1,4 +1,5 @@
 <div align="center">
+
 ## Hellooo! Welcome to
 # 🎀 Venya's Digital Playground 🎀
 ### UI/UX Visionary | Full-Stack Explorer | Professional Overthinker
@@ -6,7 +7,13 @@
 *"I’m working late ‘cause I’m a programmer."* ☕️
 
 </div>
+
 ---
+
+### ✨ The Lore
+*   **Who am I?** I'm Venya Kejriwal, a B.Tech student currently in my 2nd year at KIIT University.
+*   **The Vibe:** Turning complex logic into "aesthetic" reality—think dramatic Sabrina Carpenter playlists meets clean code.
+*   **Current Mood:** Progress over perfection, always.
 
 I’m a student at KIIT, currently starting my journey in coding and exploring the world of technology step by step.  
 I’m passionate about learning new things and creating small sparks of magic through code.  
