@@ -17,15 +17,15 @@
 ---
 
 ### ✨ The Lore
-* **Who am I?** I'm Venya Kejriwal, a B.Tech student currently in my 2nd year at KIIT University.
-* **The Vibe:** Turning complex logic into "aesthetic" reality—think dramatic Sabrina Carpenter playlists meets clean code.
+* **Who am I?** I'm Venya Kejriwal, a B.Tech student currently at KIIT University.
+* **The Vibe:** Turning complex logic into "aesthetic" reality think as dramatic Sabrina Carpenter playlists meets clean code.
 * **Dual Energy:** I speak fluent **Java**, **C**, and **Discrete Mathematics** by day, but I’m a **UI/UX** perfectionist by night.
 * **Current Mood:** Progress over perfection, always. 🚀
 
 ---
 
 ### 🚧 The Quest Log
-* **[Now]** Conquering **Java** logic and building aesthetic web projects 💻.
+* **[Now]** Conquering **Java** logic and building **aesthetic web projects** 💻.
 * **[Next]** Unlocking **Machine Learning** fundamentals and core programming concepts 🤖.
 * **[Open]** Iconic **UI/UX** collabs, open-source adventures, or internship opportunities.
 
