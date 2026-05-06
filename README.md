@@ -38,10 +38,11 @@
 
 ---
 
-<div align="center">
+div align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=VENNZSS&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENNZSS&layout=compact&theme=radical&hide_border=true&langs_count=8" height="175" />
-  <br>
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=VENNZSS&theme=radical&no-frame=true&row=1" />
 </div>
