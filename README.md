@@ -37,12 +37,3 @@
 * **The Tinkerer:** `Arduino` • `Git/GitHub` • `PyTorch` • `Canva` 🛠️.
 
 ---
----
-
-### ✨ Current Rotations
-| 🎧 On Repeat | 💻 Current Project | 🎀 Aesthetic |
-| :--- | :--- | :--- |
-| *Espresso* - Sabrina | UI for a Coffee App | Oversized & Cargo |
-| *Nonsense* - Sabrina | Java Logic Proofs | Polaroid Walls |
-
----
